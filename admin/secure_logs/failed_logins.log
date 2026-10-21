@@ -1,0 +1,57 @@
+[2025-05-08 16:52:05] Failed login: zxcZXc from 223.178.208.193 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+[2025-05-08 16:52:05] DB ERROR: Prepare failed: Table 'basoli_db.login_attempts' doesn't exist | Attempt: zxcZXc from 223.178.208.193
+[2025-05-08 16:52:53] Failed login: basoli from 223.178.208.193 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+[2025-05-08 16:52:53] DB ERROR: Prepare failed: Table 'basoli_db.login_attempts' doesn't exist | Attempt: basoli from 223.178.208.193
+[2025-05-08 16:55:05] Failed login: basoli from 223.178.208.193 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+[2025-05-08 16:55:05] DB ERROR: Prepare failed: Table 'basoli_db.login_attempts' doesn't exist | Attempt: basoli from 223.178.208.193
+[2025-05-08 17:01:52] Failed login: sddsfds from 223.178.208.193 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+[2025-05-08 17:18:16] Failed login: basoli from 223.178.208.193 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+[2025-05-13 11:10:05] Failed login: aaaaa from 223.178.208.153 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-13 11:11:28] Failed login: basoli from 223.178.208.153 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-13 11:17:07] Failed login: asas from 223.178.208.153 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-13 11:23:09] Failed login: asdasd from 223.178.208.153 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-13 11:27:06] Failed login: asdasd from 223.178.208.153 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-13 11:36:04] Failed login: asdada from 223.178.208.153 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-13 11:36:23] Failed login: dasdas from 223.178.208.153 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-13 11:36:26] Failed login: asdasd from 223.178.208.153 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-16 14:57:07] Failed login: admin from 122.180.255.171 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+[2025-05-16 15:03:21] Failed login: Admin from 122.180.255.171 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+[2025-05-17 10:35:45] Failed login: &#039; OR 1=1# from 122.160.18.221 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+[2025-05-17 10:37:24] Failed login: admin from 103.77.42.66 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-17 10:37:36] Failed login: admin from 103.77.42.66 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-17 10:37:38] Failed login: admin from 103.77.42.66 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-17 10:38:55] Failed login: &#039; OR 1=1# from 122.160.18.221 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+[2025-05-17 10:39:07] Failed login: admin from 103.77.42.66 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-17 10:39:09] Failed login: admin from 103.77.42.66 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-17 10:39:14] Failed login: admin&#039;--+- from 103.77.42.66 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-17 10:39:16] Failed login: admin&#039;--+- from 103.77.42.66 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-17 10:41:17] Failed login: &#039; OR 1=1# from 122.160.18.221 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+[2025-05-17 10:43:41] Failed login: &#039; OR 1=1# from 122.160.18.221 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+[2025-05-17 11:35:52] Failed login: basoli from 122.180.255.171 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+[2025-05-17 12:49:51] Failed login: basoli from 152.58.115.222 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+[2025-05-17 15:18:39] Failed login: &#039; OR 1=1# from 122.180.255.171 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+[2025-05-19 10:16:02] Failed login: basoli from 122.160.18.221 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+[2025-05-19 11:17:20] Failed login: basoli from 223.178.213.107 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-19 11:25:50] Failed login: basoli from 223.178.213.107 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+[2025-05-19 11:36:02] Failed login: basoli from 223.178.213.107 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-19 11:36:05] Failed login: basoli from 223.178.213.107 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+[2025-05-19 11:52:10] Failed login: basoli from 223.187.101.193 | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+[2025-05-19 14:37:46] Failed login: 1111* from 122.160.18.221 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+[2025-05-19 14:39:54] Failed login: 1111* from 122.160.18.221 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+[2025-05-19 14:40:04] Failed login: 1111* from 122.160.18.221 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+[2025-05-19 16:16:56] Failed login: basoli from 122.180.255.171 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+[2025-05-19 16:17:26] Failed login: basoli from 122.180.255.171 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+[2025-05-19 16:18:21] Failed login: basoli from 122.160.18.221 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+[2025-06-02 10:46:33] Failed login: test from 122.160.18.221 | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
+[2025-06-12 11:04:14] Failed login:  from 223.178.208.110 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+[2025-06-12 11:04:53] Failed login:  from 223.178.208.110 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+[2025-06-12 11:05:42] Failed login:  from 223.178.208.110 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+[2025-06-12 12:48:24] Failed login:  from 223.178.208.110 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+[2025-06-12 14:07:15] Failed login: basoli from 223.178.211.102 | UA: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+[2025-06-12 14:09:16] Failed login: basoli from 223.178.211.102 | UA: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+[2025-06-12 17:12:16] Failed login: basoli from 223.178.211.102 | UA: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+[2025-06-12 17:13:05] Failed login: basoli from 223.178.211.102 | UA: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+[2025-06-13 17:04:16] Failed login:  from 223.178.209.4 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+[2025-06-13 17:04:46] Failed login:  from 223.178.209.4 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+[2025-06-14 09:36:45] Failed login:  from 223.178.208.138 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+[2025-06-14 14:26:47] Failed login:  from 49.47.70.91 | UA: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0

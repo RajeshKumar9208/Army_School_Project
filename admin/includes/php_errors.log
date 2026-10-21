@@ -1,0 +1,22 @@
+[03-May-2025 15:30:23 Asia/Kolkata] PHP Error [8] Undefined index: aid in /home/basoli/public_html/admin/dashboard.php on line 9
+[03-May-2025 15:30:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function str_starts_with() in /home/basoli/public_html/admin/includes/config.php:66
+Stack trace:
+#0 /home/basoli/public_html/admin/dashboard.php(9): {closure}(8, 'Undefined index...', '/home/basoli/pu...', 9, Array)
+#1 {main}
+  thrown in /home/basoli/public_html/admin/includes/config.php on line 66
+[03-May-2025 15:44:08 Asia/Kolkata] PHP Error [2] file_put_contents(secure_logs/failed_logins.log): failed to open stream: No such file or directory in /home/basoli/public_html/admin/index.php on line 88
+[03-May-2025 15:44:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function str_starts_with() in /home/basoli/public_html/admin/includes/config.php:66
+Stack trace:
+#0 [internal function]: {closure}(2, 'file_put_conten...', '/home/basoli/pu...', 88, Array)
+#1 /home/basoli/public_html/admin/index.php(88): file_put_contents('secure_logs/fai...', '[2025-05-03 15:...', 8)
+#2 /home/basoli/public_html/admin/index.php(181): logFailedLogin('ASas')
+#3 {main}
+  thrown in /home/basoli/public_html/admin/includes/config.php on line 66
+[03-May-2025 15:45:24 Asia/Kolkata] PHP Error [2] file_put_contents(secure_logs/failed_logins.log): failed to open stream: No such file or directory in /home/basoli/public_html/admin/index.php on line 88
+[03-May-2025 15:45:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function str_starts_with() in /home/basoli/public_html/admin/includes/config.php:66
+Stack trace:
+#0 [internal function]: {closure}(2, 'file_put_conten...', '/home/basoli/pu...', 88, Array)
+#1 /home/basoli/public_html/admin/index.php(88): file_put_contents('secure_logs/fai...', '[2025-05-03 15:...', 8)
+#2 /home/basoli/public_html/admin/index.php(181): logFailedLogin('adasdasd')
+#3 {main}
+  thrown in /home/basoli/public_html/admin/includes/config.php on line 66

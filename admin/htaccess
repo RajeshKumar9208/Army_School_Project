@@ -1,0 +1,105 @@
+<IfModule mod_rewrite.c>
+# RewriteEngine On
+
+#   RewriteCond %{HTTPS} off [OR]
+#     RewriteCond %{HTTP_HOST} ^balvatikaapsbasoli\.org$ [NC]
+#     RewriteRule ^(.*)$ https://www.balvatikaapsbasoli.org/$1 [R=301,L]
+      RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]  
+    
+    # =============== SECURITY HEADERS ===============
+    <IfModule mod_headers.c>
+        # Frame options
+    
+        Header always set X-Frame-Options "DENY"
+        Header always set Content-Security-Policy "frame-ancestors 'none'"
+        Header always set Content-Security-Policy "form-action 'self'"
+        Header always set Cache-Control "no-store, no-cache, must-revalidate"
+        Header always set Pragma "no-cache"
+        Header always set Expires "0"
+        # XSS Protection
+        Header set X-XSS-Protection "1; mode=block"
+        
+        # MIME sniffing protection
+        Header set X-Content-Type-Options "nosniff"
+        Header always set Referrer-Policy "strict-origin-when-cross-origin"
+           Header always set Permissions-Policy "geolocation=(), microphone=(), camera=(), payment=()"
+           Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+        # HSTS (enable after SSL is properly configured)
+        # Header set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
+    </IfModule>
+
+    # =============== BASIC PROTECTIONS ===============
+    Options -Indexes -MultiViews +FollowSymLinks
+    ServerSignature Off
+    <FilesMatch "\.js$">
+    Header set X-Content-Type-Options "nosniff"
+    Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' https:; connect-src 'self' https:; frame-src 'none'; object-src 'none';"
+    Header set X-Frame-Options "DENY"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</FilesMatch>
+<FilesMatch "\.(js|css)$">
+    # Allow access only from your domain (referer check)
+    RewriteEngine On
+    RewriteCond %{HTTP_REFERER} !^https://(www\.)?balvatikaapsbasoli\.org [NC]
+    RewriteRule \.(js|css)$ - [F,L]
+</FilesMatch>
+    # =============== FILE PROTECTION ===============
+    <FilesMatch "\.(htaccess|htpasswd|ini|log|sh|inc|bak|sql|env)$">
+        Require all denied
+    </FilesMatch>
+
+    # =============== HTTPS REDIRECTION ===============
+    # RewriteCond %{HTTPS} off
+    # RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+    RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^https://(www\.)?balvatikaapsbasoli\.org/.*$ [NC]
+RewriteRule \.(js|css|jpg|jpeg|png|gif|webp)$ - [F,NC,L]
+    # =============== SECURITY RULES ===============
+    # Block common vulnerabilities
+    RewriteCond %{QUERY_STRING} (;|<|>|'|\"|\)|%0A|%0D|%22|%27|%3C|%3E|%00) [NC,OR]
+    RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC,OR]
+    RewriteCond %{QUERY_STRING} (\|\.\./|`|='$|=%27$) [NC,OR]
+    RewriteCond %{QUERY_STRING} (localhost|127\.0\.0\.1) [NC,OR]
+    RewriteCond %{QUERY_STRING} (sp_executesql|xp_cmdshell) [NC]
+    RewriteRule ^(.*)$ - [F,L]
+
+    # Block WordPress xmlrpc.php if not using
+    # RewriteRule ^xmlrpc\.php$ - [F,L]
+
+    # =============== PERFORMANCE ===============
+    <IfModule mod_deflate.c>
+        AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript
+    </IfModule>
+
+    # =============== CPANEL BLOCKING ===============
+    # Uncomment to block cPanel access
+    RewriteRule ^(cpanel|whm|webmail) - [F,L,NC]
+</IfModule>
+<IfModule mod_php.c>
+    php_flag display_errors off
+    php_flag log_errors on
+    php_value error_log /var/log/php_errors.log
+    php_value session.cookie_httponly 1
+    php_value session.cookie_secure 1
+    php_value session.use_strict_mode 1
+    php_value session.cookie_samesite "Strict"
+    php_value expose_php 0
+</IfModule>
+<IfModule mod_ssl.c>
+    # प्रोटोकॉल सेटिंग्स
+    SSLProtocol             all -SSLv3 -TLSv1 -TLSv1.1
+    SSLCipherSuite          ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305
+    SSLHonorCipherOrder     on
+    SSLCompression          off
+    SSLSessionTickets       off
+    SSLUseStapling          on
+    SSLStaplingCache        "shmcb:logs/ssl_stapling(32768)"
+</IfModule>
+# =============== PHP SETTINGS ===============
+<IfModule mod_php7.c>
+    php_flag display_errors off
+    php_flag log_errors on
+    php_value error_log /var/log/php_errors.log
+</IfModule>

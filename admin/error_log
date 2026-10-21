@@ -1,0 +1,249 @@
+[16-Dec-2024 12:18:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:18:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:05 Asia/Kolkata] PHP Warning:  mysqli_query(): (22003/1690): BIGINT value is out of range in '2 * if((select #),8446744073709551610,8446744073709551610)' in /home/basoli/public_html/admin/index.php on line 9
+[16-Dec-2024 12:19:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:07 Asia/Kolkata] PHP Warning:  mysqli_query(): (22003/1690): DOUBLE value is out of range in 'exp(~(select #))' in /home/basoli/public_html/admin/index.php on line 9
+[16-Dec-2024 12:19:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:11 Asia/Kolkata] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qpzvq1qzpxq1' for key 'group_key' in /home/basoli/public_html/admin/index.php on line 9
+[16-Dec-2024 12:19:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:19:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:20:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:20:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:20:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:20:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:20:54 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:20:55 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:20:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:20:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:20:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:20:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:21:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:21:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:21:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:21:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:21:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:21:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:21:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:21:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:21:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:21:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 06:53:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/basoli/public_html/admin/upload.php on line 2
+[16-Dec-2024 12:25:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:27:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:40:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:40:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:40:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:40:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:40:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:40:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:41:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:02 Asia/Kolkata] PHP Warning:  mysqli_query(): (22003/1690): BIGINT value is out of range in '2 * if((select #),8446744073709551610,8446744073709551610)' in /home/basoli/public_html/admin/index.php on line 9
+[16-Dec-2024 12:43:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:03 Asia/Kolkata] PHP Warning:  mysqli_query(): (22003/1690): DOUBLE value is out of range in 'exp(~(select #))' in /home/basoli/public_html/admin/index.php on line 9
+[16-Dec-2024 12:43:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:06 Asia/Kolkata] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxbvq1qkxbq1' for key 'group_key' in /home/basoli/public_html/admin/index.php on line 9
+[16-Dec-2024 12:43:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:43:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:45:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:46:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 12:50:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:01:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:01:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:01:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:01:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:01:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:01:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:01:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:01:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:01:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:01:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:41 Asia/Kolkata] PHP Warning:  mysqli_query(): (22003/1690): BIGINT value is out of range in '2 * if((select #),8446744073709551610,8446744073709551610)' in /home/basoli/public_html/admin/index.php on line 9
+[16-Dec-2024 14:02:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:43 Asia/Kolkata] PHP Warning:  mysqli_query(): (22003/1690): DOUBLE value is out of range in 'exp(~(select #))' in /home/basoli/public_html/admin/index.php on line 9
+[16-Dec-2024 14:02:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:47 Asia/Kolkata] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qqbpq1qzkqq1' for key 'group_key' in /home/basoli/public_html/admin/index.php on line 9
+[16-Dec-2024 14:02:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:02:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:35 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:04:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:10:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:11:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:12:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:20:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:22:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:37:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:45:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:45:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:46:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:46:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:48:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:48:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:48:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:51:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:52:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:53:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 14:54:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 15:21:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 15:21:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 15:40:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 16:39:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[16-Dec-2024 16:58:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:50:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:50:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:51:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:54:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:54:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:55:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:55:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:55:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:55:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:55:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:55:35 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:55:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:55:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:55:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:55:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:56:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:56:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:56:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:56:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:56:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:56:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:56:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:56:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:58:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:58:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:58:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 00:58:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 01:01:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 14:04:55 Asia/Kolkata] PHP Warning:  md5() expects parameter 1 to be string, array given in /home/basoli/public_html/admin/index.php on line 8
+[17-Dec-2024 14:05:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/basoli/public_html/admin/index.php on line 10
+[17-Dec-2024 12:19:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/basoli/public_html/admin/upload.php on line 2
+[03-May-2025 11:32:04 Asia/Kolkata] PHP Warning:  file_put_contents(logs/failed_logins.log): failed to open stream: No such file or directory in /home/basoli/public_html/admin/index.php on line 27
+[03-May-2025 09:02:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'DB_USER'@'localhost' (using password: YES) in /home/basoli/public_html/admin/rate_limiter.php:3
+Stack trace:
+#0 /home/basoli/public_html/admin/rate_limiter.php(3): PDO->__construct('mysql:host=loca...', 'DB_USER', 'DB_PASSWORD')
+#1 /home/basoli/public_html/admin/index.php(4): enforceRateLimit()
+#2 {main}
+  thrown in /home/basoli/public_html/admin/rate_limiter.php on line 3
+[03-May-2025 09:03:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'DB_USER'@'localhost' (using password: YES) in /home/basoli/public_html/admin/rate_limiter.php:3
+Stack trace:
+#0 /home/basoli/public_html/admin/rate_limiter.php(3): PDO->__construct('mysql:host=loca...', 'DB_USER', 'DB_PASSWORD')
+#1 /home/basoli/public_html/admin/index.php(4): enforceRateLimit()
+#2 {main}
+  thrown in /home/basoli/public_html/admin/rate_limiter.php on line 3
+[03-May-2025 10:32:20 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home/basoli/public_html/admin/logout.php on line 3
+[03-May-2025 10:58:54 UTC] Rate limiter error: SQLSTATE[HY093]: Invalid parameter number
+[03-May-2025 10:59:29 UTC] Rate limiter error: SQLSTATE[HY093]: Invalid parameter number
+[03-May-2025 11:00:39 UTC] Rate limiter error: SQLSTATE[HY093]: Invalid parameter number
+[03-May-2025 11:12:41 UTC] Rate limiter error: SQLSTATE[HY093]: Invalid parameter number
+[03-May-2025 11:12:41 UTC] Rate limiter error: SQLSTATE[HY093]: Invalid parameter number

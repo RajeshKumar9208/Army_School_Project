@@ -1,0 +1,20 @@
+[06-Nov-2024 16:07:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/basoli/public_html/classes.php:479
+Stack trace:
+#0 {main}
+  thrown in /home/basoli/public_html/classes.php on line 479
+[06-Nov-2024 16:07:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/basoli/public_html/classes.php:479
+Stack trace:
+#0 {main}
+  thrown in /home/basoli/public_html/classes.php on line 479
+[03-May-2025 08:25:14 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 4
+[03-May-2025 08:25:14 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 5
+[03-May-2025 08:25:14 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 6
+[03-May-2025 08:27:37 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 4
+[03-May-2025 08:27:37 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 5
+[03-May-2025 08:27:37 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 6
+[03-May-2025 08:27:57 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 4
+[03-May-2025 08:27:57 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 5
+[03-May-2025 08:27:57 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 6
+[03-May-2025 08:28:55 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 4
+[03-May-2025 08:28:55 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 5
+[03-May-2025 08:28:55 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home/basoli/public_html/index.php on line 6
